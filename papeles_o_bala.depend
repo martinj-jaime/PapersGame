@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1655750595 source:c:\martin\utn mdp\lab 1\papeles_o_bala\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"prototypes.h"
+
+1655293118 c:\martin\utn mdp\lab 1\papeles_o_bala\structs.h
+
+1655753494 c:\martin\utn mdp\lab 1\papeles_o_bala\inmigrante.h
+
+1655754074 source:c:\martin\utn mdp\lab 1\papeles_o_bala\randominmigrantes.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1655490223 c:\martin\utn mdp\lab 1\papeles_o_bala\randominmigrantes.h
+	"inmigrante.h"
+
+1655513020 source:c:\martin\utn mdp\lab 1\papeles_o_bala\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"prototypes.h"
+
+1655489864 c:\martin\utn mdp\lab 1\papeles_o_bala\menu.h
+
+1655753589 source:c:\martin\utn mdp\lab 1\papeles_o_bala\principal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"prototypes.h"
+
+1655489790 c:\martin\utn mdp\lab 1\papeles_o_bala\principal.h
+
+1655753299 c:\martin\utn mdp\lab 1\papeles_o_bala\prototypes.h
+	"inmigrante.h"
+
+1655771755 source:c:\users\lutaro\desktop\facu\1 cuatrimestre\programacion i\projects\practico final\papersgame-main\papersgame-main\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"prototypes.h"
+
+1655769981 c:\users\lutaro\desktop\facu\1 cuatrimestre\programacion i\projects\practico final\papersgame-main\papersgame-main\prototypes.h
+	"inmigrante.h"
+
+1655769278 c:\users\lutaro\desktop\facu\1 cuatrimestre\programacion i\projects\practico final\papersgame-main\papersgame-main\inmigrante.h
+
+1655754242 source:c:\users\lutaro\desktop\facu\1 cuatrimestre\programacion i\projects\practico final\papersgame-main\papersgame-main\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"prototypes.h"
+
+1655754242 source:c:\users\lutaro\desktop\facu\1 cuatrimestre\programacion i\projects\practico final\papersgame-main\papersgame-main\randominmigrantes.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1655766085 source:c:\users\lutaro\desktop\facu\1 cuatrimestre\programacion i\projects\practico final\papersgame-main\papersgame-main\principal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	"prototypes.h"
+
